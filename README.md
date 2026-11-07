@@ -2,7 +2,7 @@
 
 Meu nome é **Edenir Amorim** e sou um profissional apaixonado por usar a tecnologia para resolver problemas reais de negócios. Com uma base sólida em Administração e experiência em rotinas financeiras, descobri na programação a ferramenta ideal para otimizar processos e gerar insights estratégicos.
 
-Atualmente, curso **Ciência da Computação** e possuo uma pós-graduação em **Data Science & Analytics**. Meu foco principal é a área de Dados e o desenvolvimento de soluções escaláveis e inteligentes. 
+Atualmente, curso **Ciência de Dados** e possuo uma pós-graduação em **Data Science & Analytics**. Meu foco principal é a área de Dados e o desenvolvimento de soluções escaláveis e inteligentes. 
 
 Quando não estou mergulhado em bancos de dados ou criando scripts de automação, gosto de manter minha rotina de treinos na academia e aproveitar jogos como Terraria, Minecraft e Fallout.
 
